@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "consigna1",
-    "slug": "consigna1",
+    "name": "gestor-usuarios",
+    "slug": "gestor-usuarios",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
